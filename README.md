@@ -6,10 +6,14 @@ This repository is a portfolio of Laravel web application.
 
 ## Official Documentation
 
+### Mysql Database
+
+To start, please import sql database dump, it is located in folder database/idomerchant_laundry.sql. Please create new database on mysql and import this sql file.
+
 ### Installation
 
 First go inside project root folder, rename .env.example to .env,
-And then create mysql database with name idomerchant_laundry, please change db username and password in .env file according to your mysql settings.
+And then change db username and password in .env file according to your mysql settings.
 
 Open terminal and run this command:
 
