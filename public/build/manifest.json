@@ -1,0 +1,378 @@
+{
+  "_ActionButton-65ac1286.js": {
+    "file": "assets/ActionButton-65ac1286.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_CustomerMasterForm-77f7e4dd.js": {
+    "file": "assets/CustomerMasterForm-77f7e4dd.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.esm-0ff8ed9e.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_GuestLayout-1a6d5c93.js": {
+    "file": "assets/GuestLayout-1a6d5c93.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_bonvivo_logo-12897ae9.js"
+    ]
+  },
+  "_InputLabel-c2ec121b.js": {
+    "file": "assets/InputLabel-c2ec121b.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_ModelActions-c1b7e06e.js": {
+    "file": "assets/ModelActions-c1b7e06e.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.esm-b6d3ac2b.js",
+      "_index.esm-0ff8ed9e.js",
+      "_CustomerMasterForm-77f7e4dd.js",
+      "_iconBase-a32b9c6a.js",
+      "_StandardFormModalTemplate-156ebbc9.js",
+      "_ModelForm-32e1afd3.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_ModelForm-32e1afd3.js": {
+    "file": "assets/ModelForm-32e1afd3.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_StandardFormModalTemplate-156ebbc9.js",
+      "resources/js/Pages/Modules/CustomerMaster/CustomerMasterFormData.jsx",
+      "_CustomerMasterForm-77f7e4dd.js"
+    ],
+    "isDynamicEntry": true
+  },
+  "_PrimaryButton-7f79a4bd.js": {
+    "file": "assets/PrimaryButton-7f79a4bd.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_StandardFormModalTemplate-156ebbc9.js": {
+    "file": "assets/StandardFormModalTemplate-156ebbc9.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ActionButton-65ac1286.js",
+      "_iconBase-a32b9c6a.js"
+    ]
+  },
+  "_TextInput-8315db3f.js": {
+    "file": "assets/TextInput-8315db3f.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_ThemeLayout-5df96acf.js": {
+    "file": "assets/ThemeLayout-5df96acf.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.esm-f0dcaf01.js",
+      "_index.esm-0ff8ed9e.js",
+      "_bonvivo_logo-12897ae9.js",
+      "_iconBase-a32b9c6a.js",
+      "_ThemeToggler-ce0d72b5.js",
+      "_index.esm-b6d3ac2b.js",
+      "_StandardFormModalTemplate-156ebbc9.js"
+    ]
+  },
+  "_ThemeToggler-ce0d72b5.js": {
+    "file": "assets/ThemeToggler-ce0d72b5.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.esm-f0dcaf01.js"
+    ]
+  },
+  "_bonvivo_logo-12897ae9.js": {
+    "assets": [
+      "assets/bonvivo_logo-b852f1e3.jpg"
+    ],
+    "file": "assets/bonvivo_logo-12897ae9.js"
+  },
+  "_iconBase-a32b9c6a.js": {
+    "file": "assets/iconBase-a32b9c6a.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_index.esm-0ff8ed9e.js": {
+    "file": "assets/index.esm-0ff8ed9e.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_iconBase-a32b9c6a.js"
+    ]
+  },
+  "_index.esm-b6d3ac2b.js": {
+    "file": "assets/index.esm-b6d3ac2b.js",
+    "imports": [
+      "_iconBase-a32b9c6a.js",
+      "resources/js/app.jsx",
+      "_index.esm-0ff8ed9e.js"
+    ]
+  },
+  "_index.esm-f0dcaf01.js": {
+    "file": "assets/index.esm-f0dcaf01.js",
+    "imports": [
+      "_iconBase-a32b9c6a.js"
+    ]
+  },
+  "node_modules/@sweetalert2/theme-dark/dark.min.css": {
+    "file": "assets/dark.min-40f3d7eb.css",
+    "src": "node_modules/@sweetalert2/theme-dark/dark.min.css"
+  },
+  "resources/assets/fonts/Caprasimo-Regular.ttf": {
+    "file": "assets/Caprasimo-Regular-54565d93.ttf",
+    "src": "resources/assets/fonts/Caprasimo-Regular.ttf"
+  },
+  "resources/assets/fonts/DotMatrix-Two-Regular.otf": {
+    "file": "assets/DotMatrix-Two-Regular-5eec8c44.otf",
+    "src": "resources/assets/fonts/DotMatrix-Two-Regular.otf"
+  },
+  "resources/assets/fonts/Poppins-Light.ttf": {
+    "file": "assets/Poppins-Light-647f014d.ttf",
+    "src": "resources/assets/fonts/Poppins-Light.ttf"
+  },
+  "resources/assets/images/bonvivo_logo.jpg": {
+    "file": "assets/bonvivo_logo-b852f1e3.jpg",
+    "src": "resources/assets/images/bonvivo_logo.jpg"
+  },
+  "resources/assets/images/logo.png": {
+    "file": "assets/logo-26214d2d.png",
+    "src": "resources/assets/images/logo.png"
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.jsx": {
+    "file": "assets/ConfirmPassword-a6adbc3b.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-1a6d5c93.js",
+      "_TextInput-8315db3f.js",
+      "_InputLabel-c2ec121b.js",
+      "_PrimaryButton-7f79a4bd.js",
+      "_bonvivo_logo-12897ae9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ConfirmPassword.jsx"
+  },
+  "resources/js/Pages/Auth/ForgotPassword.jsx": {
+    "file": "assets/ForgotPassword-4d045629.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-1a6d5c93.js",
+      "_TextInput-8315db3f.js",
+      "_PrimaryButton-7f79a4bd.js",
+      "_bonvivo_logo-12897ae9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ForgotPassword.jsx"
+  },
+  "resources/js/Pages/Auth/Login.jsx": {
+    "file": "assets/Login-4e54051f.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-1a6d5c93.js",
+      "_TextInput-8315db3f.js",
+      "_InputLabel-c2ec121b.js",
+      "_ActionButton-65ac1286.js",
+      "_ThemeToggler-ce0d72b5.js",
+      "_bonvivo_logo-12897ae9.js",
+      "_index.esm-f0dcaf01.js",
+      "_iconBase-a32b9c6a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Login.jsx"
+  },
+  "resources/js/Pages/Auth/Register.jsx": {
+    "file": "assets/Register-f231b5ae.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-1a6d5c93.js",
+      "_TextInput-8315db3f.js",
+      "_InputLabel-c2ec121b.js",
+      "_PrimaryButton-7f79a4bd.js",
+      "_bonvivo_logo-12897ae9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Register.jsx"
+  },
+  "resources/js/Pages/Auth/ResetPassword.jsx": {
+    "file": "assets/ResetPassword-f5a1a74e.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-1a6d5c93.js",
+      "_TextInput-8315db3f.js",
+      "_InputLabel-c2ec121b.js",
+      "_PrimaryButton-7f79a4bd.js",
+      "_bonvivo_logo-12897ae9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ResetPassword.jsx"
+  },
+  "resources/js/Pages/Auth/VerifyEmail.jsx": {
+    "file": "assets/VerifyEmail-dc89dfa9.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-1a6d5c93.js",
+      "_PrimaryButton-7f79a4bd.js",
+      "_bonvivo_logo-12897ae9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/VerifyEmail.jsx"
+  },
+  "resources/js/Pages/Modules/CustomerMaster/CustomerMasterColumns.jsx": {
+    "file": "assets/CustomerMasterColumns-5fd1dc20.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ModelActions-c1b7e06e.js",
+      "_index.esm-b6d3ac2b.js",
+      "_iconBase-a32b9c6a.js",
+      "_index.esm-0ff8ed9e.js",
+      "_CustomerMasterForm-77f7e4dd.js",
+      "_StandardFormModalTemplate-156ebbc9.js",
+      "_ActionButton-65ac1286.js",
+      "_ModelForm-32e1afd3.js",
+      "resources/js/Pages/Modules/CustomerMaster/CustomerMasterFormData.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Modules/CustomerMaster/CustomerMasterColumns.jsx"
+  },
+  "resources/js/Pages/Modules/CustomerMaster/CustomerMasterFormData.jsx": {
+    "file": "assets/CustomerMasterFormData-26781783.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Modules/CustomerMaster/CustomerMasterFormData.jsx"
+  },
+  "resources/js/Pages/Template/Components/DataTable/ModelDataTable.jsx": {
+    "file": "assets/ModelDataTable-b4ba7fdb.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index.esm-b6d3ac2b.js",
+      "_index.esm-f0dcaf01.js",
+      "_index.esm-0ff8ed9e.js",
+      "_ModelActions-c1b7e06e.js",
+      "_iconBase-a32b9c6a.js",
+      "resources/js/Pages/Modules/CustomerMaster/CustomerMasterColumns.jsx",
+      "_CustomerMasterForm-77f7e4dd.js",
+      "_StandardFormModalTemplate-156ebbc9.js",
+      "_ActionButton-65ac1286.js",
+      "_ModelForm-32e1afd3.js",
+      "resources/js/Pages/Modules/CustomerMaster/CustomerMasterFormData.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Template/Components/DataTable/ModelDataTable.jsx"
+  },
+  "resources/js/Pages/Template/Components/DataTable/ModelFilter.jsx": {
+    "file": "assets/ModelFilter-fe2d0e68.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Template/Components/DataTable/ModelFilter.jsx"
+  },
+  "resources/js/Pages/Template/Designs/DashboardDesign.jsx": {
+    "file": "assets/DashboardDesign-864d539f.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ThemeLayout-5df96acf.js",
+      "_index.esm-0ff8ed9e.js",
+      "_StandardFormModalTemplate-156ebbc9.js",
+      "_iconBase-a32b9c6a.js",
+      "_index.esm-b6d3ac2b.js",
+      "_index.esm-f0dcaf01.js",
+      "_bonvivo_logo-12897ae9.js",
+      "_ThemeToggler-ce0d72b5.js",
+      "_ActionButton-65ac1286.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Template/Designs/DashboardDesign.jsx"
+  },
+  "resources/js/Pages/Template/Designs/TableDesign.jsx": {
+    "file": "assets/TableDesign-edc19a0b.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ThemeLayout-5df96acf.js",
+      "_index.esm-b6d3ac2b.js",
+      "_StandardFormModalTemplate-156ebbc9.js",
+      "resources/js/Pages/Template/Components/DataTable/ModelFilter.jsx",
+      "resources/js/Pages/Template/Components/DataTable/ModelDataTable.jsx",
+      "_ModelForm-32e1afd3.js",
+      "_index.esm-f0dcaf01.js",
+      "_iconBase-a32b9c6a.js",
+      "_index.esm-0ff8ed9e.js",
+      "_bonvivo_logo-12897ae9.js",
+      "_ThemeToggler-ce0d72b5.js",
+      "_ActionButton-65ac1286.js",
+      "_ModelActions-c1b7e06e.js",
+      "_CustomerMasterForm-77f7e4dd.js",
+      "resources/js/Pages/Modules/CustomerMaster/CustomerMasterColumns.jsx",
+      "resources/js/Pages/Modules/CustomerMaster/CustomerMasterFormData.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Template/Designs/TableDesign.jsx"
+  },
+  "resources/js/Pages/Template/Index.jsx": {
+    "file": "assets/Index-76e63b2f.js",
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/Template/Designs/DashboardDesign.jsx",
+      "resources/js/Pages/Template/Designs/TableDesign.jsx",
+      "_ThemeLayout-5df96acf.js",
+      "_index.esm-f0dcaf01.js",
+      "_iconBase-a32b9c6a.js",
+      "_index.esm-0ff8ed9e.js",
+      "_bonvivo_logo-12897ae9.js",
+      "_ThemeToggler-ce0d72b5.js",
+      "_index.esm-b6d3ac2b.js",
+      "_StandardFormModalTemplate-156ebbc9.js",
+      "_ActionButton-65ac1286.js",
+      "resources/js/Pages/Template/Components/DataTable/ModelFilter.jsx",
+      "resources/js/Pages/Template/Components/DataTable/ModelDataTable.jsx",
+      "_ModelActions-c1b7e06e.js",
+      "_CustomerMasterForm-77f7e4dd.js",
+      "_ModelForm-32e1afd3.js",
+      "resources/js/Pages/Modules/CustomerMaster/CustomerMasterFormData.jsx",
+      "resources/js/Pages/Modules/CustomerMaster/CustomerMasterColumns.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Template/Index.jsx"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-750a8252.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.jsx": {
+    "assets": [
+      "assets/Caprasimo-Regular-54565d93.ttf",
+      "assets/Poppins-Light-647f014d.ttf",
+      "assets/DotMatrix-Two-Regular-5eec8c44.otf"
+    ],
+    "css": [
+      "assets/app-750a8252.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Auth/ConfirmPassword.jsx",
+      "resources/js/Pages/Auth/ForgotPassword.jsx",
+      "resources/js/Pages/Auth/Login.jsx",
+      "resources/js/Pages/Auth/Register.jsx",
+      "resources/js/Pages/Auth/ResetPassword.jsx",
+      "resources/js/Pages/Auth/VerifyEmail.jsx",
+      "resources/js/Pages/Modules/CustomerMaster/CustomerMasterColumns.jsx",
+      "_CustomerMasterForm-77f7e4dd.js",
+      "resources/js/Pages/Modules/CustomerMaster/CustomerMasterFormData.jsx",
+      "_ModelActions-c1b7e06e.js",
+      "resources/js/Pages/Template/Components/DataTable/ModelDataTable.jsx",
+      "resources/js/Pages/Template/Components/DataTable/ModelFilter.jsx",
+      "_ModelForm-32e1afd3.js",
+      "resources/js/Pages/Template/Designs/DashboardDesign.jsx",
+      "resources/js/Pages/Template/Designs/TableDesign.jsx",
+      "resources/js/Pages/Template/Index.jsx"
+    ],
+    "file": "assets/app-144c7569.js",
+    "isEntry": true,
+    "src": "resources/js/app.jsx"
+  }
+}

@@ -1,0 +1,57 @@
+<?php
+
+namespace {{ namespace }};
+
+use App\Modules\{{ class }}\Table\{{ class }}DataTable;
+use Illuminate\Http\Request;
+use Inertia\Inertia;
+
+class {{ class }}IndexAction
+{
+	public function index(Request $request)
+	{
+		$page = [
+			'title' => 'Daftar {{ class }}',
+		];
+
+		$options = [
+			//
+		];
+
+		$collection = (new {{ class }}DataTable)->generate($request);
+
+		$props = compact('page', 'options', 'collection');
+
+		return Inertia::render('Public/{{ class }}/Index', $props);
+	}
+}
+
+
+<?php
+
+namespace {{ namespace }};
+
+use App\Modules\{{ class }}\Table\BrandDataTable;
+use Illuminate\Http\Request;
+use App\Models\UnitStatus;
+use Inertia\Inertia;
+
+class {{ class }}IndexAction
+{
+	public function index(Request $request)
+	{
+		$page = [
+			'title' => '{{ class }}s',
+		];
+
+		$options = [
+			'statuses' => UnitStatus::get(),
+		];
+
+		$collection = (new {{ class }}DataTable)->generate($request);
+
+		$props = compact('page', 'options', 'collection');
+
+		return Inertia::render('Public/{{ class }}/Index', $props);
+	}
+}

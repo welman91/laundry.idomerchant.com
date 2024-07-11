@@ -1,0 +1,1 @@
+const n=(s,r,t=null)=>{const{statuses:c,countrycodes:u}=r;return{__form_type:s,name:(t==null?void 0:t.name)??"",address:(t==null?void 0:t.address)??"",cust_status:(t==null?void 0:t.cust_status)??c[0].id,country_code_id:(t==null?void 0:t.country_code_id)??u.find(a=>a.id===62).id,mobile:(t==null?void 0:t.mobile)??""}};export{n as customerMasterFormData};
